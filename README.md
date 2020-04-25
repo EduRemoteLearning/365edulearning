@@ -18,5 +18,7 @@ You can add any additional content however the template comes as is.
 
 # You will find in this repo:
 -instructions on how to implement the template into the root site collection but also a newly created site collection if you want to have it somewhere else.
+
 -image assets <-- please note these must be uploaded to the site before applying the template otherwise the template will not upload correctly and you will have manual fixes to resolve the issues of running the template twice on a site.
+
 -an .xml file with the template for Apply-PnPProvisioningTemplate.  This is available in teh PnP powershell Cmdlets.
